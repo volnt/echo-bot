@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/telegram/webhooks",
+      "destination": "/api/telegram"
+    }
+  ]
+}
